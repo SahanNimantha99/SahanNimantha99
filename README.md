@@ -31,6 +31,8 @@ Here are a few projects I'm proud of:
 1. **The Baby Development Tracking System**: The Baby Development Tracking System is a mobile application designed to assist parents, guardians, public health midwives (PHMs), and doctors in tracking and managing the development of babies from 0 to 5 years old.. [https://github.com/cepdnaclk/e19-co225-Baby-Developement-Tracking-System-Mobileapplication](#)
 2. **Smart-Waste-Management-System**: Third year Cyber-Physical Systems Project. [https://github.com/SahanNimantha99/e19-3yp-Smart-Waste-Management-System](#)
 3. **SpaceExplorerAppe**: This Flutter project is designed to ignite your curiosity about the universe. [https://github.com/SahanNimantha99/flutter_smart_space_explorer_app](#)
+4. **A User-Friendly GUI for Subclinical Mastitis Prediction in Dairy Cows**: A user-friendly GUI for subclinical mastitis prediction model in dairy cows, assisting dairy farm owners in effective farm management. [https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui](#)
+
 
 Feel free to explore more on my GitHub repositories!
 
