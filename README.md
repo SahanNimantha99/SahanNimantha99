@@ -1,4 +1,42 @@
-## Hello There
+# Welcome to My Profile! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I'm [Your Name], a passionate computer engineer with a love for building innovative solutions. Welcome to my GitHub page where you can explore my projects and delve into the world of technology with me.
+
+## About Me
+
+- 💻 Computer Engineer
+- 🌱 Constantly learning and exploring new technologies
+- 🚀 Actively seeking opportunities to collaborate on exciting projects
+
+## Skills and Tools
+
+### Programming Languages:
+- C
+- Java
+- Python
+
+### Development Tools:
+- React.js
+- Firebase
+- Unity
+
+### Design Tools:
+- Adobe Illustrator
+- Adobe Photoshop
+
+## Projects
+
+Here are a few projects I'm proud of:
+
+1. **The Baby Development Tracking System**: The Baby Development Tracking System is a mobile application designed to assist parents, guardians, public health midwives (PHMs), and doctors in tracking and managing the development of babies from 0 to 5 years old.. [https://github.com/cepdnaclk/e19-co225-Baby-Developement-Tracking-System-Mobileapplication](#)
+2. **Smart-Waste-Management-System**: Third year Cyber-Physical Systems Project. [https://github.com/SahanNimantha99/e19-3yp-Smart-Waste-Management-System](#)
+3. **SpaceExplorerAppe**: This Flutter project is designed to ignite your curiosity about the universe. [https://github.com/SahanNimantha99/flutter_smart_space_explorer_app](#)
+
+Feel free to explore more on my GitHub repositories!
+
+## Let's Connect
+
+- LinkedIn: [https://www.linkedin.com/in/sahan-nimantha-54424a222/](#)
+
+Don't hesitate to reach out if you have any questions, collaboration ideas, or just want to chat!
+
