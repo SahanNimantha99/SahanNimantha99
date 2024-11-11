@@ -3,8 +3,6 @@
 <div align="center">
     <img alt="Coding" src="docs/Saha99.webp" style="max-width: 100%; height: "500";">
 </div>
-<!-- <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahannimantha99&label=Profile%20views&color=0e75b6&style=flat" alt="sahannimantha99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahannimantha99" alt="sahannimantha99" /></a> </p>
