@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahan Nimantha</h1>
 <h3 align="center">Computer Engineer, Passionate about Software, DevOps and ML/AI Engineering</h3>
-<img align="center" alt="Coding" width="500" src="/path/to/your/image.png">
+<img align="center" alt="Coding" width="500" src="docs/Saha99.webp">
 <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahannimantha99&label=Profile%20views&color=0e75b6&style=flat" alt="sahannimantha99" /> </p>
