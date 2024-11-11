@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahan Nimantha</h1>
 <h3 align="center">Computer Engineer, Passionate about Software, DevOps and ML/AI Engineering</h3>
 <div align="center">
-    <img alt="Coding" src="docs/Saha99.webp" style="max-width: 100%; height: auto;">
+    <img alt="Coding" src="docs/Saha99.webp" style="max-width: 100%; height: "500";">
 </div>
 <!-- <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
