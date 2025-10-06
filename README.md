@@ -45,7 +45,7 @@ Developed machine learning models to predict rainfall using Sri Lankan meteorolo
 ## 🤝 Connect With Me  
 
 📧 **Email:** [sahannimantha2233@gmail.com](mailto:sahannimantha2233@gmail.com)  
-💼 **LinkedIn:** [Sahan Nimantha](https://www.linkedin.com/in/sahan-nimantha)  
+💼 **LinkedIn:** [Sahan Nimantha](https://www.linkedin.com/in/sahan-nimantha-1523622a7)  
 💻 **GitHub:** [SahanNimantha99](https://github.com/SahanNimantha99)  
 
 ---
