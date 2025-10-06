@@ -1,31 +1,53 @@
-👋 Hello, I'm Sahan Nimantha
+# 👋 Hello, I'm Sahan Nimantha  
 
-  Computer Engineering Undergraduate | Software Development | DevOps | ML/AI Enthusiast
+🎓 **Computer Engineering | Full-Stack Development | Quality Engineering | DevOps | AI/ML Enthusiast**
 
-## About Me
-I’m a final-year Computer Engineering student at the University of Peradeniya, Sri Lanka, with a passion for crafting innovative software solutions. My expertise lies in software development, DevOps, and machine learning/AI, with experience in building full-stack applications, AI-driven systems, and hardware verification tools. I excel in collaborative settings, tackling complex challenges with a blend of technical skill and creativity. In my free time, I enjoy chess for strategic thinking and cricket for team spirit.
+---
 
-## Skills
+## 🚀 About Me  
 
-Programming: Python, JavaScript, TypeScript, Verilog, Java  
-Frameworks/Tools: ReactJS, Node.js, FastAPI, Django, Scikit-learn, Arduino  
-DevOps & Cloud: AWS (Amplify, IoT, DocumentDB), GitHub, Jira, Docker  
-Databases: MongoDB, MySQL  
-AI/ML: OpenAI, PEFT, RAG, Supervised/Unsupervised Learning
+I’m a **Computer Engineering at the University of Peradeniya, Sri Lanka**, passionate about building reliable, scalable, and intelligent software systems.  
+My interests span **Software Engineering, Quality Engineering, Machine Learning, and Artificial Intelligence**, with hands-on experience in developing full-stack applications, deploying cloud services, and ensuring product quality through automated and manual testing.  
 
+I thrive in collaborative, innovation-driven environments — solving real-world problems with clean code, smart automation, and data-driven insights.  
+Beyond tech, I enjoy **chess** for its strategic depth and **cricket** for the teamwork and leadership it fosters.  
 
-## Featured Projects
+---
 
-Verilog Code Generation with LLMsAutomated Verilog code variation generation using fine-tuned Large Language Models for hardware verification.Tech: Verilog, Python, PyVerilog, Google BigQuery  
+## 🧠 Skills  
 
-GreenBin – Smart Waste ManagementIoT-powered waste collection system with mobile and web interfaces.Tech: ReactJS, React Native, Node.js, AWS IoT, MongoDB  
+**Programming:** Java, Python, JavaScript, Verilog  
+**Frameworks & Tools:** ReactJS, Node.js, Express, Django, FastAPI, Scikit-learn, Arduino  
+**DevOps & Cloud:** AWS (Amplify, EC2, OpenSearch, IoT Core, DocumentDB), Docker, GitHub, Jira  
+**Databases:** MongoDB, MySQL, Google BigQuery  
+**Testing & Quality:** Selenium, JMeter, Postman, Swagger, Pytest, Unit Testing  
+**AI/ML:** OpenAI, RAG, PEFT, Fine-tuning, Supervised & Unsupervised Learning  
+**Other:** HTML, CSS, Bootstrap, Firebase  
 
-Rainfall Prediction SystemMachine learning models to forecast rainfall using Sri Lankan weather data.Tech: Python, Scikit-learn, Jupyter Notebooks
+---
 
+## 💡 Featured Projects  
 
+### 🔹 Verilog Code Generation with LLMs  
+Automated Verilog code variation generation for hardware verification using fine-tuned Large Language Models.  
+**Tech:** Verilog, Python, PyVerilog, Google BigQuery  
 
-## Connect With Me
+### 🔹 GreenBin – Smart Waste Management  
+IoT-powered smart waste collection system with real-time tracking and mobile/web interfaces.  
+**Tech:** ReactJS, React Native, Node.js, AWS IoT, MongoDB  
 
-Email : sahannimantha2233@gmail.com
-Linkedin : Sahan Nimantha
-Git : SahanNimantha99
+### 🔹 Rainfall Prediction System  
+Developed machine learning models to predict rainfall using Sri Lankan meteorological data.  
+**Tech:** Python, Scikit-learn, Jupyter Notebooks  
+
+---
+
+## 🤝 Connect With Me  
+
+📧 **Email:** [sahannimantha2233@gmail.com](mailto:sahannimantha2233@gmail.com)  
+💼 **LinkedIn:** [Sahan Nimantha](https://www.linkedin.com/in/sahan-nimantha)  
+💻 **GitHub:** [SahanNimantha99](https://github.com/SahanNimantha99)  
+
+---
+
+⭐ _“Building scalable, intelligent, and high-quality systems — one commit at a time.”_
