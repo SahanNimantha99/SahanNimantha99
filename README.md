@@ -1,53 +1,71 @@
-# 👋 Hello, I'm Sahan Nimantha  
-
-🎓 **Computer Engineering | Full-Stack Development | Quality Engineering | DevOps | AI/ML Enthusiast**
-
----
-
-## 🚀 About Me  
-
-I’m a **Computer Engineering at the University of Peradeniya, Sri Lanka**, passionate about building reliable, scalable, and intelligent software systems.  
-My interests span **Software Engineering, Quality Engineering, Machine Learning, and Artificial Intelligence**, with hands-on experience in developing full-stack applications, deploying cloud services, and ensuring product quality through automated and manual testing.  
-
-I thrive in collaborative, innovation-driven environments — solving real-world problems with clean code, smart automation, and data-driven insights.  
-Beyond tech, I enjoy **chess** for its strategic depth and **cricket** for the teamwork and leadership it fosters.  
+# Hi All, This is Sahan Nimantha
+**Computer Engineering Undergraduate | Full-Stack Developer | AI/ML & DevOps Enthusiast**
 
 ---
 
-## 🧠 Skills  
-
-**Programming:** Java, Python, JavaScript, Verilog  
-**Frameworks & Tools:** ReactJS, Node.js, Express, Django, FastAPI, Scikit-learn, Arduino  
-**DevOps & Cloud:** AWS (Amplify, EC2, OpenSearch, IoT Core, DocumentDB), Docker, GitHub, Jira  
-**Databases:** MongoDB, MySQL, Google BigQuery  
-**Testing & Quality:** Selenium, JMeter, Postman, Swagger, Pytest, Unit Testing  
-**AI/ML:** OpenAI, RAG, PEFT, Fine-tuning, Supervised & Unsupervised Learning  
-**Other:** HTML, CSS, Bootstrap, Firebase  
+## About Me
+I am a **Computer Engineering student at the University of Peradeniya, Sri Lanka**, passionate about creating scalable, high-quality software solutions. With expertise in **full-stack development, quality assurance, DevOps, and AI/ML**, I build reliable systems using clean code and innovative technologies. I thrive in collaborative environments and enjoy solving complex problems.
 
 ---
 
-## 💡 Featured Projects  
+## Education
+**BSc (Hons) in Computer Engineering**  
+*University of Peradeniya, Sri Lanka* | 2021 – 2025  
+- GPA: 3.50/4.0  
 
+---
+
+## Skills
+- **Languages**: Java, Python, JavaScript, Verilog  
+- **Frameworks & Tools**: ReactJS, Node.js, Express, Django, FastAPI, Scikit-learn  
+- **DevOps & Cloud**: AWS (Amplify, EC2, IoT Core, DocumentDB), Docker, GitHub, Jira  
+- **Databases**: MongoDB, MySQL, Google BigQuery  
+- **Testing**: Selenium, JMeter, Postman, Pytest  
+- **AI/ML**: OpenAI, RAG, Fine-tuning, Supervised/Unsupervised Learning  
+
+---
+
+## Featured Projects
 ### 🔹 Verilog Code Generation with LLMs  
-Automated Verilog code variation generation for hardware verification using fine-tuned Large Language Models.  
-**Tech:** Verilog, Python, PyVerilog, Google BigQuery  
+*Final Year Project | Synopsys Collaboration* | 2024 – 2025  
+- Built a RAG pipeline for automated Verilog code generation using fine-tuned LLMs for hardware verification.  
+- *Tech*: Verilog, Python, PyVerilog, Google BigQuery  
 
 ### 🔹 GreenBin – Smart Waste Management  
-IoT-powered smart waste collection system with real-time tracking and mobile/web interfaces.  
-**Tech:** ReactJS, React Native, Node.js, AWS IoT, MongoDB  
+*Group Project* | 2023 – 2024  
+- Developed an IoT-based waste collection system with real-time tracking and web/mobile interfaces.  
+- *Tech*: ReactJS, Node.js, MongoDB, AWS IoT Core, MQTT  
 
-### 🔹 Rainfall Prediction System  
-Developed machine learning models to predict rainfall using Sri Lankan meteorological data.  
-**Tech:** Python, Scikit-learn, Jupyter Notebooks  
-
----
-
-## 🤝 Connect With Me  
-
-📧 **Email:** [sahannimantha2233@gmail.com](mailto:sahannimantha2233@gmail.com)  
-💼 **LinkedIn:** [Sahan Nimantha](https://www.linkedin.com/in/sahan-nimantha-1523622a7)  
-💻 **GitHub:** [SahanNimantha99](https://github.com/SahanNimantha99)  
+### 🔹 MediCare – Hospital Management System  
+*Group Project* | 2023  
+- Created a web platform for managing hospital operations and patient records.  
+- *Tech*: ReactJS, Node.js, MySQL  
 
 ---
 
-⭐ _“Building scalable, intelligent, and high-quality systems — one commit at a time.”_
+## Experience
+**Intern Software Engineer**  
+*Neura Intelligence (Pvt) Ltd, Sri Lanka* | 2024 – 2025  
+- Contributed to full-stack development, UI optimization, and AI-driven features for multiple platforms.  
+- Managed AWS deployments and conducted automated/manual testing.  
+- *Tech*: ReactJS, Node.js, FastAPI, MongoDB, AWS, OpenAI, Postman  
+
+**Undergraduate Teaching Assistant**  
+*University of Peradeniya* | 2023 – 2025  
+- Assisted in teaching Computer Architecture, Networks, and Web Application Design.  
+
+---
+
+## Certifications
+- JavaScript, ReactJS, Node.js | Udemy | 2024  
+- Supervised Machine Learning, Generative AI | DeepLearning.AI | 2023 – 2025  
+
+---
+
+## Connect With Me
+- **Email**: [sahannimantha2233@gmail.com](mailto:sahannimantha2233@gmail.com)  
+- **LinkedIn**: [Sahan Nimantha](https://www.linkedin.com/in/sahan-nimantha-1523622a7)  
+- **GitHub**: [SahanNimantha99](https://github.com/SahanNimantha99)  
+- **Portfolio**: [sahannimantha99.github.io/portfolio_my](https://sahannimantha99.github.io/portfolio_my/)  
+
+---
